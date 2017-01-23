@@ -1,2 +1,1 @@
-# project specific
-config.php
+Needs to be completed.
