@@ -1,0 +1,3 @@
+Disallow: /log_in.php
+Disallow: /register/
+Disallow: /addpost/

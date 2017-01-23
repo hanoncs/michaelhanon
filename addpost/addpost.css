@@ -1,0 +1,9 @@
+.bootstrap-tags .label {
+    padding: 3px 5px !important;
+    font-size: 13px !important;
+    line-height: inherit !important;
+}
+
+.bootstrap-tagsinput {
+    width: 100%;
+}
